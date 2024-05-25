@@ -22,7 +22,7 @@ const Navbar = () => {
         </p>
       </Link>
       
-      <div className="flex-betweeen gap-5">
+      <div className="flex-between gap-5">
         <SignedIn>
           <UserButton />
         </SignedIn>
